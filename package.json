@@ -1,0 +1,29 @@
+{
+  "name": "trpc-project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xsushanta/trpc-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xsushanta/trpc-learning/issues"
+  },
+  "homepage": "https://github.com/0xsushanta/trpc-learning#readme",
+  "description": "",
+  "dependencies": {
+    "@trpc/client": "^11.5.1",
+    "@trpc/server": "^11.5.1",
+    "zod": "^4.1.9"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
